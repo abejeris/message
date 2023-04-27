@@ -11,7 +11,7 @@ function MoodChecker() {
 		<div>
 			<h2>{message}</h2>
 			<button onClick={() => handleButtonClick("Nieko tokio, viskas bus gerai")}>
-				Jauciuosi prastai :(
+				Jauciuosi labai prastai :(
 			</button>
 			<button onClick={() => handleButtonClick("Gerai, nujauciu, kad greitu metu jausites puikiai")}>
 				Jauciuosi normaliai :|
